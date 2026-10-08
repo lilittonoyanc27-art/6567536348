@@ -1,0 +1,6 @@
+{
+  "name": "El Zorro — Español Interactivo",
+  "description": "Aprende español con la escena clásica de El Zorro: subtítulos interactivos sincronizados con traducción al armenio y cuestionario de comprensión de 10 preguntas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
